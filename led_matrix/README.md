@@ -4,4 +4,7 @@
 
 # Description
 ## v1 
-Just shows an Heart
+Just shows an Heart.
+
+## v2 
+Cycles through multiple "images".
